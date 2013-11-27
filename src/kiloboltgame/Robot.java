@@ -24,6 +24,8 @@ public class Robot {
 	private int speedY = 0;
 	public static Rectangle rect = new Rectangle(0, 0, 0, 0);
 	public static Rectangle rect2 = new Rectangle(0, 0, 0, 0);
+	public static Rectangle rect3 = new Rectangle(0, 0, 0, 0);
+	public static Rectangle rect4 = new Rectangle(0, 0, 0, 0);
 
 	private ArrayList<Projectile> projectiles = new ArrayList<Projectile>();
 
